@@ -21,9 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anuraghanda15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuraghanda15" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anurag-h-3a2996224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuraghanda15" height="30" width="40" /></a>
 <a href="https://instagram.com/anuraghanda15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuraghanda15" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anuraghanda_20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anuraghanda_20" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anurag_handa20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anuraghanda_20" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anuraghanda15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anuraghanda15" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anuraghanda_15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="anuraghanda_15" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anuraghanda15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuraghanda15" height="30" width="40" /></a>
